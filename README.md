@@ -8,9 +8,13 @@ pkg update
 
 pkg upgrade
 
+pkg install git
+
 pkg install python
 
 pip install secrets
+
+git clone https://github.com/darkblackorganization/dark-password-.git
 
 cd password 
 
