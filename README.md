@@ -19,4 +19,4 @@ git clone https://github.com/darkblackorganization/dark-password-.git
 cd dark-password-
 
 python password.py
-'''
+```
