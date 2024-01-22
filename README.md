@@ -16,6 +16,6 @@ pip install secrets
 
 git clone https://github.com/darkblackorganization/dark-password-.git
 
-cd password 
+cd dark-password-
 
 python password.py
