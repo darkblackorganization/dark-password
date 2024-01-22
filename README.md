@@ -8,4 +8,4 @@ pkg upgrade
 pkg install python
 pip install secrets
 cd password 
-python pass.py
+python pass.py 
