@@ -1,5 +1,9 @@
 import secrets
 import string
+import os
+
+os.system('cls' if os.name == 'nt' else 'clear')
+
 
 print("""\033[94m
 
